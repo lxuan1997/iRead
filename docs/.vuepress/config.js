@@ -6,7 +6,11 @@ import { sidebar } from "./sidebar";
 export default defineUserConfig({
     lang: 'zh-CN',
     title: '',
-    head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+    head: [
+        ['link', { rel: 'icon', href: '/images/logo-icon.png' }],
+        // 添加apple icon
+        ['link', { rel: 'apple-touch-icon', href: '/images/logo-icon.png' }]
+    ],
     description: 'keep reading , day day up',
     base: '/iRead',
     theme: defaultTheme({
