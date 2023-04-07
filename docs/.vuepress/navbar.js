@@ -15,6 +15,10 @@ export const navbar = [
             {
                 text: '天涯kk',
                 link: '/人文社科/天涯kk/'
+            },
+            {
+                text: '乌合之众',
+                link: '/人文社科/乌合之众/'
             }
         ]
     },
