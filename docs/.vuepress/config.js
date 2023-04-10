@@ -10,7 +10,7 @@ export default defineUserConfig({
     head: [
         ['link', { rel: 'icon', href: '/iRead/images/logo-icon.png' }],
         // 添加apple icon
-        ['link', { rel: 'apple-touch-icon', href: '/iRead/images/logo-icon.png' }]
+        ['link', { rel: 'apple-touch-icon', href: '/iRead/images/logo.png' }]
     ],
     description: 'keep reading , day day up',
     theme: defaultTheme({
