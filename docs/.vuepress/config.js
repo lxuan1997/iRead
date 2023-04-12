@@ -18,7 +18,13 @@ export default defineUserConfig({
         logo: '/images/logo.png',
         logoDark: '/images/logo-dark.png',
         navbar,
-        sidebar
+        sidebar,
+        docsRepo: 'https://github.com/lxuan1997/iRead',
+        docsBranch: 'main',
+        docsDir: 'docs',
+        contributors: false,
+        // editLinkText: '编辑此页',
+        // lastUpdatedText: '最近更新'
     }),
     plugins: [
         mdEnhancePlugin({
