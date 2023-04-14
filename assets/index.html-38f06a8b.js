@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e243c11","path":"/socialScience/","title":"人文社科","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681207789000,"contributors":[{"name":"luoxuan","email":"lxuan2497@gmail.com","commits":1}]},"filePathRelative":"socialScience/index.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-268dd184","path":"/socialScience/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97/","title":"乌合之众","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681207789000,"contributors":[{"name":"luoxuan","email":"lxuan2497@gmail.com","commits":1}]},"filePathRelative":"socialScience/乌合之众/index.md"}');export{e as data};

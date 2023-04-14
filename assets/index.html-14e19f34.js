@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5772226","path":"/psychology/","title":"书单 Todo📚","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681466787000,"contributors":[{"name":"luoxuan","email":"lxuan2497@gmail.com","commits":2}]},"filePathRelative":"psychology/index.md"}');export{t as data};

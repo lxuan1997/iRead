@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d4787502","path":"/healthy/%E6%97%A0%E4%BC%A4%E8%B7%91%E6%B3%95/","title":"无伤跑法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681207789000,"contributors":[{"name":"luoxuan","email":"lxuan2497@gmail.com","commits":1}]},"filePathRelative":"healthy/无伤跑法/index.md"}');export{t as data};

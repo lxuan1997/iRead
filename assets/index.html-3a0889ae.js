@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-d6b257aa","path":"/healthy/","title":"运动健康","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681207789000,"contributors":[{"name":"luoxuan","email":"lxuan2497@gmail.com","commits":1}]},"filePathRelative":"healthy/index.md"}');export{a as data};
