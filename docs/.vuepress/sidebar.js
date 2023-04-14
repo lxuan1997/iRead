@@ -20,7 +20,8 @@ export const sidebar = {
         {
             text: '健康',
             children: [
-                '/healthy/无伤跑法/index.md'
+                '/healthy/无伤跑法/index.md',
+                '/healthy/睡眠革命/index.md'
             ]
         }
     ],
